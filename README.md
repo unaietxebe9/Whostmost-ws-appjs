@@ -7,9 +7,7 @@
 感谢 [Naochen2799/Latest-Kernel-BBR3](https://github.com/Naochen2799/Latest-Kernel-BBR3) 项目提供的技术支持与灵感参考。  
 ## 💡 赞助声明
 
-本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
-感谢 VTEXS 对开源社区的支持！
-🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
+
 ## Star History
 
 <a href="https://star-history.com/#byJoey/Actions-bbr-v3&Timeline">
