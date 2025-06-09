@@ -9,3 +9,13 @@
 
 本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
 感谢 VTEXS 对开源社区的支持！
+🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
+## Star History
+
+<a href="https://star-history.com/#byJoey/Actions-bbr-v3&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
+ </picture>
+</a>
